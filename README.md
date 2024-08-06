@@ -28,7 +28,6 @@ The ESP Eye Rover Project is an IoT project that combines the power of the ESP32
 
 - ESP32-CAM module
 - Motor driver module (L298N or similar)
-- DC motors
 - Chassis for the car
 - Battery pack
 
